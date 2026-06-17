@@ -1,0 +1,2 @@
+# Claude session-history local scratch cache (data lives on the session-history branch)
+.session-history/
